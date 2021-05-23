@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salik Sadruddin Merani</h1>
-<h3 align="center">Programmer, Tech Enthusiat and a mediocre gamer</h3>
+<h3 align="center">Programmer, Tech Enthusiast and a mediocre gamer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echosalik&row=2&column=3" alt="echosalik" /></a> <img src="https://github-readme-stats.vercel.app/api?username=echosalik&show_icons=true&count_private=true" />
 </p>
