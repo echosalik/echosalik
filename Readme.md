@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echosalik&row=2&column=3" alt="echosalik" /></a> <img src="https://github-readme-stats.vercel.app/api?username=echosalik&show_icons=true&count_private=true" />
 </p>
 
-- 🔭 I’m currently working at [AKDN dHRC](https://github.com/AKDNdHRC)
+<!-- - 🔭 I’m currently working at [AKDN dHRC](https://github.com/AKDNdHRC) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
